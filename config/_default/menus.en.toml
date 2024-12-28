@@ -25,10 +25,10 @@
  url = "/certifications/"
  weight = 30
 
-[[main]]
- name = "Blog"
- pageRef = "blog"
- weight = 40
+# [[main]]
+#  name = "Blog"
+#  pageRef = "blog"
+#  weight = 40
 
 [[main]]
  name = "Contact Us"
