@@ -7,7 +7,7 @@ Kami percaya bahwa kekuatan teknologi dapat dimanfaatkan oleh <b>semua organisas
 
 Dapatkan <u>konsultasi teknologi <b>GRATIS</b></u> sekarang dan mulai perjalanan digital Anda bersama kami!
 <div style="margin-top: 25px">
-    <a href="https://wa.link/bjr2pr" style="color: white">
+    <a href="https://api.whatsapp.com/send?phone=6282132328252&text=Halo%20ETHERVAL%20IT%20Consultancy%2C%20Saya%20ingin%20berkonsultasi%20tentang%20teknologi.%0A%0A" style="color: white">
         <span style="border-radius: 6px; padding: 10px 20px;background-color: #f17c26;">Hubungi Kami >>
         </span>
     </a>

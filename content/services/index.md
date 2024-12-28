@@ -28,7 +28,7 @@ ETHERVAL menyediakan solusi **Industrial IoT (IIoT)** untuk meningkatkan efisien
 
 <p></p>
 <div><b>Telp.</b></div>
-<div><a href="https://wa.link/bjr2pr">(+62) 811-307-8217</a></div>
+<div><a href="https://api.whatsapp.com/send?phone=6282132328252&text=Halo%20ETHERVAL%20IT%20Consultancy%2C%20Saya%20ingin%20berkonsultasi%20tentang%20teknologi.%0A%0A">(+62) 811-307-8217</a></div>
 
 <p></p>
 <div><b>Email</b></div>
