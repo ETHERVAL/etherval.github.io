@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on ETHERVAL</title><link>https://etherval.id/posts/</link><description>Recent content in Posts on ETHERVAL</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ian@etherval.id (ETHERVAL IT Consultancy)</managingEditor><webMaster>ian@etherval.id (ETHERVAL IT Consultancy)</webMaster><lastBuildDate>Sat, 28 Dec 2024 17:08:59 +0700</lastBuildDate><atom:link href="https://etherval.id/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://etherval.id/posts/my-first-post/</link><pubDate>Sat, 28 Dec 2024 17:08:59 +0700</pubDate><author>ian@etherval.id (ETHERVAL IT Consultancy)</author><guid>https://etherval.id/posts/my-first-post/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ETHERVAL</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on ETHERVAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ian@etherval.id (ETHERVAL IT Consultancy)</managingEditor>
+    <webMaster>ian@etherval.id (ETHERVAL IT Consultancy)</webMaster>
+    
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CORETAX: Pedang Bermata Dua untuk Administrasi Pajak Indonesia</title>
+      <link>http://localhost:1313/posts/coretax/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <author>ian@etherval.id (ETHERVAL IT Consultancy)</author>
+      <guid>http://localhost:1313/posts/coretax/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/coretax/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
