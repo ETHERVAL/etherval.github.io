@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ETHERVAL&lt;br&gt;IT Consultancy on ETHERVAL</title>
-    <link>http://localhost:1313/</link>
+    <link>https://etherval.id/</link>
     <description>Recent content in ETHERVAL&lt;br&gt;IT Consultancy on ETHERVAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>ian@etherval.id (ETHERVAL IT Consultancy)</managingEditor>
     <webMaster>ian@etherval.id (ETHERVAL IT Consultancy)</webMaster>
     
-    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://etherval.id/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CORETAX: Pedang Bermata Dua untuk Administrasi Pajak Indonesia</title>
-      <link>http://localhost:1313/posts/coretax/</link>
+      <link>https://etherval.id/posts/coretax/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <author>ian@etherval.id (ETHERVAL IT Consultancy)</author>
-      <guid>http://localhost:1313/posts/coretax/</guid>
+      <guid>https://etherval.id/posts/coretax/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/coretax/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://etherval.id/posts/coretax/featured.jpg" />
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://etherval.id/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ian@etherval.id (ETHERVAL IT Consultancy)</author>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://etherval.id/contact/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/contact/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://etherval.id/contact/featured.jpeg" />
     </item>
     
     <item>
       <title>Our Services</title>
-      <link>http://localhost:1313/services/</link>
+      <link>https://etherval.id/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ian@etherval.id (ETHERVAL IT Consultancy)</author>
-      <guid>http://localhost:1313/services/</guid>
+      <guid>https://etherval.id/services/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/services/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://etherval.id/services/featured.jpg" />
     </item>
     
     <item>
       <title>Team Certifications</title>
-      <link>http://localhost:1313/certifications/</link>
+      <link>https://etherval.id/certifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ian@etherval.id (ETHERVAL IT Consultancy)</author>
-      <guid>http://localhost:1313/certifications/</guid>
+      <guid>https://etherval.id/certifications/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/certifications/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://etherval.id/certifications/featured.jpg" />
     </item>
     
   </channel>
