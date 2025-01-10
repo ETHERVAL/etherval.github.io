@@ -276,10 +276,10 @@ body {
 	border-right-style:solid;
 	border-bottom-style:solid;
 	border-left-style:solid;
-	border-top-color:rgb(36,99,235);
-	border-right-color:rgb(36,99,235);
-	border-bottom-color:rgb(36,99,235);
-	border-left-color:rgb(36,99,235);
+	border-top-color:#f17c26;
+	border-right-color:#f17c26;
+	border-bottom-color:#f17c26;
+	border-left-color:#f17c26;
 }
 #iqroa4 {
 	font-size:1.5rem;
@@ -367,10 +367,10 @@ body {
 	border-right-width:3px;
 	border-bottom-width:3px;
 	border-left-width:3px;
-	border-top-color:rgb(36,99,235);
-	border-right-color:rgb(36,99,235);
-	border-bottom-color:rgb(36,99,235);
-	border-left-color:rgb(36,99,235);
+	border-top-color:#f17c26;
+	border-right-color:#f17c26;
+	border-bottom-color:#f17c26;
+	border-left-color:#f17c26;
 	border-top-style:solid;
 	border-right-style:solid;
 	border-bottom-style:solid;
@@ -518,7 +518,7 @@ body {
 	padding-right:20px;
 }
 .gjs-link:hover {
-	color:rgb(36,99,235);
+	color:#f17c26;
 	text-decoration:underline;
 }
 .gjs-icon {
@@ -547,7 +547,7 @@ body {
 	padding-right:10px;
 	padding-bottom:10px;
 	padding-left:10px;
-	background-color:rgb(36,99,235);
+	background-color:#f17c26;
 	color:white;
 	border-top-left-radius:10px;
 	border-top-right-radius:10px;
@@ -721,14 +721,17 @@ Dapatkan <u>konsultasi teknologi <b>GRATIS</b></u> sekarang dan mulai perjalanan
       <div id="ia21sa" class="text-main-content">Kami melengkapi layanan kami untuk memberikan yang terbaik untuk kelangsungan bisnis Anda.</div>
       <div id="ixzh1" class="gjs-grid-row">
         <div id="ilpi3" class="gjs-grid-column feature-item">
-          <div data-type-icon id="ipmqo6" class="gjs-icon gjs-feature-icon"><svg viewBox="0 0 24 24">
+          <div data-type-icon id="ipmqo6" class="gjs-icon gjs-feature-icon">
+		  	<svg viewBox="0 0 24 24">
               <path
                 d="M16 9h3l-5 7m-4-7h4l-2 8M5 9h3l2 7m5-12h2l2 3h-3m-5-3h2l1 3h-4M7 4h2L8 7H5m1-5L2 8l10 14L22 8l-4-6H6z">
               </path>
-            </svg></div>
-          <h3 id="in9ef" class="gjs-heading">Implementasi ERP</h3>
-          <div id="i8isa" class="text-main-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+            </svg>
+		</div>
+          <h3 id="in9ef" class="gjs-heading">Tailor-Made ERP Implementation</h3>
+          <div id="i8isa" class="text-main-content">
+		  	Rampingkan operasional bisnis Anda dengan solusi ERP terintegrasi. Dapatkan wawasan berharga, tingkatkan efisiensi, dan buat keputusan berdasarkan data dengan layanan implementasi ERP ahli kami.
+		  </div>
         </div>
         <div id="ic57kq" class="gjs-grid-column feature-item">
           <div data-type-icon id="ibdusm" class="gjs-icon gjs-feature-icon"><svg viewBox="0 0 24 24">
@@ -736,9 +739,21 @@ Dapatkan <u>konsultasi teknologi <b>GRATIS</b></u> sekarang dan mulai perjalanan
                 d="M16 9h3l-5 7m-4-7h4l-2 8M5 9h3l2 7m5-12h2l2 3h-3m-5-3h2l1 3h-4M7 4h2L8 7H5m1-5L2 8l10 14L22 8l-4-6H6z">
               </path>
             </svg></div>
-          <h3 id="ica43q" class="gjs-heading">Pengembangan Aplikasi Mobile</h3>
-          <div id="ickn3f" class="text-main-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+          <h3 id="ica43q" class="gjs-heading">Mobile App Development</h3>
+          <div id="ickn3f" class="text-main-content">
+		  	Kembangkan aplikasi mobile berkualitas tinggi yang sesuai dengan kebutuhan bisnis Anda. Tim ahli kami menciptakan pengalaman pengguna yang luar biasa dengan teknologi terkini.
+		  </div>
+        </div>
+        <div id="ic57kqx" class="gjs-grid-column feature-item">
+          <div data-type-icon id="ibdusm" class="gjs-icon gjs-feature-icon"><svg viewBox="0 0 24 24">
+              <path
+                d="M16 9h3l-5 7m-4-7h4l-2 8M5 9h3l2 7m5-12h2l2 3h-3m-5-3h2l1 3h-4M7 4h2L8 7H5m1-5L2 8l10 14L22 8l-4-6H6z">
+              </path>
+            </svg></div>
+          <h3 id="ica43q" class="gjs-heading">Cloud Infrastructure</h3>
+          <div id="ickn3f" class="text-main-content">
+		  	Kembangkan aplikasi mobile berkualitas tinggi yang sesuai dengan kebutuhan bisnis Anda. Tim ahli kami menciptakan pengalaman pengguna yang luar biasa dengan teknologi terkini.
+		  </div>
         </div>
         <div id="idv32l" class="gjs-grid-column feature-item">
           <div data-type-icon id="ipmept" class="gjs-icon gjs-feature-icon"><svg viewBox="0 0 24 24">
@@ -747,8 +762,9 @@ Dapatkan <u>konsultasi teknologi <b>GRATIS</b></u> sekarang dan mulai perjalanan
               </path>
             </svg></div>
           <h3 id="ieu6p6" class="gjs-heading">Pengembangan AI & Machine Learning</h3>
-          <div id="izqkf7" class="text-main-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+          <div id="izqkf7" class="text-main-content">
+		  	Manfaatkan kekuatan AI dan Machine Learning untuk meningkatkan bisnis Anda. Tim kami mengembangkan solusi cerdas yang dapat memprediksi, menganalisis, dan mengotomatiskan proses bisnis.
+		  </div>
         </div>
       </div>
     </div>
@@ -760,7 +776,7 @@ Dapatkan <u>konsultasi teknologi <b>GRATIS</b></u> sekarang dan mulai perjalanan
       <div id="i5k4nf" class="gjs-grid-row">
         <div id="inea73" class="gjs-grid-column testimonial-item">
           <div id="i2d7qp" class="gjs-grid-row">
-            <div id="idva29" class="gjs-grid-column"><img src="https://source.unsplash.com/random/200x200/?profile,person,business" id="ia7pcr"/>
+            <div id="idva29" class="gjs-grid-column"><img src="img/dedy.jpg" id="ia7pcr"/>
             </div>
             <div id="i4djop" class="gjs-grid-column">
               <h4 id="iqroa4" class="gjs-heading">Dedy G. D.</h4>
@@ -773,7 +789,7 @@ Dapatkan <u>konsultasi teknologi <b>GRATIS</b></u> sekarang dan mulai perjalanan
         </div>
         <div id="idndjn" class="gjs-grid-column testimonial-item">
           <div id="ish0zj" class="gjs-grid-row">
-            <div id="inucqu" class="gjs-grid-column"><img src="https://source.unsplash.com/random/200x200/?profile,person,business" id="ixzdlj"/>
+            <div id="inucqu" class="gjs-grid-column"><img src="img/andy-saputra.jpeg" id="ixzdlj"/>
             </div>
             <div id="iuk8ib" class="gjs-grid-column">
               <h4 id="i04ztt" class="gjs-heading">Andy Saputra</h4>
