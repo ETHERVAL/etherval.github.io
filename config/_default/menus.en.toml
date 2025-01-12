@@ -27,7 +27,7 @@
 
 [[main]]
  name = "Blog"
- pageRef = "posts"
+ url = "https://medium.com/@etherval"
  weight = 40
 
 [[main]]
