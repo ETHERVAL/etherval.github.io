@@ -9,26 +9,16 @@
     <managingEditor>ian@etherval.id (ETHERVAL IT Consultancy)</managingEditor>
     <webMaster>ian@etherval.id (ETHERVAL IT Consultancy)</webMaster>
     
-    <lastBuildDate>Sat, 28 Dec 2024 17:08:59 +0700</lastBuildDate><atom:link href="https://etherval.id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://etherval.id/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My First Post</title>
-      <link>https://etherval.id/posts/my-first-post/</link>
-      <pubDate>Sat, 28 Dec 2024 17:08:59 +0700</pubDate>
+      <title>CORETAX: Pedang Bermata Dua untuk Administrasi Pajak Indonesia</title>
+      <link>https://etherval.id/posts/coretax/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <author>ian@etherval.id (ETHERVAL IT Consultancy)</author>
-      <guid>https://etherval.id/posts/my-first-post/</guid>
+      <guid>https://etherval.id/posts/coretax/</guid>
       <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ETHERVAL&lt;br&gt;IT Consultancy</title>
-      <link>https://etherval.id/blog/first-blog/</link>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      <author>ian@etherval.id (ETHERVAL IT Consultancy)</author>
-      <guid>https://etherval.id/blog/first-blog/</guid>
-      <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://etherval.id/posts/coretax/featured.jpg" />
     </item>
     
     <item>

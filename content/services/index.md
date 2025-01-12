@@ -18,10 +18,6 @@ ETHERVAL menyediakan solusi **pengembangan aplikasi mobile** untuk meningkatkan 
 ![](img/ai-ml-development.png)
 ETHERVAL mengkhususkan diri dalam implementasi **AI dan ML** untuk meningkatkan kinerja bisnis Anda. Tim ahli kami menyediakan solusi khusus, dari analisis data hingga model prediktif. Dengan teknologi terbaru, kami membantu bisnis mengotomatisasi proses dan membuat keputusan lebih cerdas. Percayakan **ETHERVAL** untuk solusi AI & ML yang inovatif dan efektif.
 
-## Industrial Internet of Things \(IIoT)
-![](img/iot.png)
-ETHERVAL menyediakan solusi **Industrial IoT (IIoT)** untuk meningkatkan efisiensi dan produktivitas bisnis Anda. Tim ahli kami merancang dan mengimplementasikan sistem IIoT yang memungkinkan pemantauan dan pengelolaan perangkat industri secara real-time. Dengan teknologi IIoT terbaru, kami membantu bisnis mengoptimalkan operasional, mengurangi downtime, dan meningkatkan kualitas produksi. Percayakan **ETHERVAL** untuk mengintegrasikan solusi IIoT yang inovatif dan efektif ke dalam bisnis Anda.
-
 ## ☏ Contact Us
 <div><b>Graha Bukopin Lt. 7</b></div>
 <div>Jln. Panglima Sudirman No.10-18, Embong Kaliasin<br/>Kec. Genteng, Surabaya, Jawa Timur 60271</div>
