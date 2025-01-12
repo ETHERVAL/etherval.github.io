@@ -26,12 +26,12 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.b48620e5ce92463549fcaaf173e520c4e22fb9430072e318c0b3e5d3fc7aa0e2be744e28a087fa7ff53e7a153113cbc703a7cc83cbe83741586d708483bbb1cf.css"
-    integrity="sha512-tIYg5c6SRjVJ/Krxc&#43;UgxOIvuUMAcuMYwLPl0/x6oOK&#43;dE4ooIf6f/U&#43;ehUxE8vHA6fMg8voN0FYbXCEg7uxzw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.e96772c5cdc14f53dc8f2d49a7f91bd1dc21484251faa988567a4cb5313e24ea6befb15bbad2f816721b267c196c83c5c688647f3f59faf0e25b638d0e602880.css"
+    integrity="sha512-6Wdyxc3BT1Pcjy1Jp/kb0dwhSEJR&#43;qmIVnpMtTE&#43;JOpr77FbutL4FnIbJnwZbIPFxohkfz9Z&#43;vDiW2ONDmAogA==" />
   
   
-  <script type="text/javascript" src="/js/appearance.min.845ec7ecc13bd9b07defad3bacee4f28438a0b66361a2d70548160281e7eed85884fa62f54452cbb0c2d85b21e9c1f7f83bc69f5f42d5d825d6cc3890b047ba8.js"
-    integrity="sha512-hF7H7ME72bB97607rO5PKEOKC2Y2Gi1wVIFgKB5&#43;7YWIT6YvVEUsuwwthbIenB9/g7xp9fQtXYJdbMOJCwR7qA=="></script>
+  <script type="text/javascript" src="/js/appearance.min.e41d270ba738ac0898629678fc4b88887d27e98fe4d2b60fa53e7133db90a355fa73f753b4eeb8f7f25e407cb26791977f756e682926c632a15897df7724564c.js"
+    integrity="sha512-5B0nC6c4rAiYYpZ4/EuIiH0n6Y/k0rYPpT5xM9uQo1X6c/dTtO649/JeQHyyZ5GXf3VuaCkmxjKhWJffdyRWTA=="></script>
   
   
   
@@ -158,7 +158,7 @@
   <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
-    class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
+    class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3">
     
     
     
@@ -167,7 +167,7 @@
             <span class="sr-only">ETHERVAL</span>
 
             
-            <img src="/logo-2.png" width="250" height="250"
+            <img src="/logo.png" width="250" height="250"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="ETHERVAL" />
             
 
@@ -178,11 +178,14 @@
         <nav class="flex space-x-3">
 
             
-            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">ETHERVAL</a>
+            <a href="/" >
+                <div><span class="text-base font-bold text-gray-500 hover:text-gray-900" style="letter-spacing: 1px; font-size: 14pt">ETHERVAL</span></div>
+                <div style="margin-top: -10px; "><span class="text-base font-light text-gray-500 hover:text-gray-900" style="color: #47556985; letter-spacing: 1px; font-size: 11pt!important;">IT Consultancy</span></div>
+            </a>
             
 
         </nav>
-        <nav class="hidden md:flex items-center space-x-5 md:ml-12 h-12">
+        <nav class="hidden md:flex items-center gap-x-5 md:ml-12 h-12">
 
             
             
@@ -265,7 +268,7 @@
             
 
         </nav>
-        <div class="flex md:hidden items-center space-x-5 md:ml-12 h-12">
+        <div class="flex md:hidden items-center gap-x-5 md:ml-12 h-12">
 
             <span></span>
 
@@ -291,7 +294,7 @@
 
         </div>
     </div>
-    <div class="-my-2 -mr-2 md:hidden">
+    <div class="-my-2 md:hidden">
 
         <label id="menu-button" class="block">
             
@@ -460,7 +463,9 @@
     <p class="text-xs text-neutral-500 dark:text-neutral-400">
       
       
-      Powered by ETHERVAL IT Consultancy
+      Powered by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
     </p>
     
 

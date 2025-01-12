@@ -9,10 +9,10 @@ title = "ETHERVAL"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "logo-2.png"
+  logo = "logo.png"
   secondaryLogo = "logo.png"
   description = "The best IT Consultacy in Indonesia. Based in Surabaya. ERP, IOT, Mobile App, and Custom Mobile Application"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "Copyright ETHERVAL IT Consultancy"
 
 [params.author]
   name = "ETHERVAL IT Consultancy"
